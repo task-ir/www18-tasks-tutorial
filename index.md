@@ -3,8 +3,10 @@
 ### Venue
 The tutorial will be held at [The Web Conference](https://www2018.thewebconf.org/), 2018 (WWW) in Lyon, France, April 24th, 2018.
 
+**Tutorial material to be released shortly**
 
-### Abstract
+
+### Introduction
 Search behavior, and information behavior more generally, is often motivated by tasks that prompt search processes that are
 often lengthy, iterative, and intermittent, and are characterized by distinct stages, shifting goals and multitasking. Current
 search systems do not provide adequate support for users tackling complex tasks due to which the cognitive burden of keeping
