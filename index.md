@@ -1,7 +1,7 @@
 ## Understanding & Inferring User Tasks and Needs
 
 ### Venue
-The tutorial will be held at [The Web Conference](https://www2018.thewebconf.org/), 2018 (WWW) in Lyon, France, April 24th, 2018.
+The tutorial will be held at [The Web Conference](https://www2018.thewebconf.org/), 2018 (WWW) in Lyon, France, April 24th, 2018. The tutorial begins at 9 AM on Tuesday in Salon Gratte-Ciel.
 
 **Tutorial material to be released shortly**
 
